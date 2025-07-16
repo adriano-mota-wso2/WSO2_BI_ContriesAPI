@@ -1,0 +1,1 @@
+// Types file - currently empty but available for future type definitions

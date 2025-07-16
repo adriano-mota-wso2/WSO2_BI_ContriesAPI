@@ -1,0 +1,1 @@
+// Configuration file - currently empty but available for future configurations
